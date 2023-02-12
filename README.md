@@ -19,28 +19,21 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<div>
-  <p>
+  <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogquinto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogquinto&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=merko"/>
   </p>
-</div>
-
 
 <br><br>
 
-## Contact
+## 📱 Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/thiagogquinto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagogquinto-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://instagram.com/thiagogquinto" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-thiagogquinto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:thiagogarianiq@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagogquinto-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-thiagogarianiq-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
