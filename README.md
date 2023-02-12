@@ -5,6 +5,7 @@
 
 - 📓 Currently learning JavaScript and Python
 
+<br><br>
 
 ## 🛠 &nbsp;Techs
 
