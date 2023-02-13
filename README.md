@@ -27,14 +27,11 @@
 
 <br><br>
 
-## 📱 Contact
+## 📱 Contact Me!
 
 <p align="left" style="background:yellow">
-<a href="https://instagram.com/thiagogquinto" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagogquinto-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="mailto:thiagogarianiq@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagogarianiq-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-GMAIL-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
