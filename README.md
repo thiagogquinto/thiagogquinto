@@ -5,8 +5,6 @@
 
 - 📓 Currently learning JavaScript and Python
 
-<br><br>
-
 ## 🛠 &nbsp;Techs
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,16 +15,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-<br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogquinto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogquinto&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=merko"/>
   </p>
-
-<br><br>
+-->
 
 ## 📱 Contact Me!
 
