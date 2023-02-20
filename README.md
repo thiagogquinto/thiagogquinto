@@ -3,7 +3,7 @@
 
 - 💻 Computer Science Student at Federal Technological University of Paraná
 
-- 📓 Currently learning JavaScript and Python
+- 📓 Currently learning Web Development
 
 ## 🛠 &nbsp;Techs
 
