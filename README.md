@@ -16,16 +16,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-## ⚙️ &nbsp;GitHub Analytics
 <!--
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align='center'><img src="https://streak-stats.demolab.com?user=thiagogquinto&date_format=j%20M%5B%20Y%5D&border=1b98ff&ring=D8D9DA&fire=D8D9DA&stroke=D8D9DA&background=0D1117&currStreakNum=D8D9DA&sideNums=1b98ff&currStreakLabel=1b98ff&sideLabels=D8D9DA&dates=D8D9DA"/></p>
--->
+
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogquinto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogquinto&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=merko"/>
   </p>
-
+-->
 
 ## 📱 Contact Me!
 
