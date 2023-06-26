@@ -28,7 +28,7 @@
   </p>
 -->
 
-## 📱 Contact Me!
+## 🤝🏻 Contact Me!
 
 <p align="left" style="background:yellow">
 <a href="mailto:thiagogarianiq@gmail.com" target="_blank">
