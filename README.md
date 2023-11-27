@@ -31,11 +31,14 @@
 
 ## 🤝🏻 Contact Me!
 
-<p align="left" style="background:yellow">
 <a href="mailto:thiagogarianiq@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-GMAIL-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/thiago-gariani-quinto-84008a298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-LINKEDIN-05122A?style=flat&logo=linkedin" alt="gmail"/>
+</a>
+
 
 
 <!--
