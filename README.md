@@ -35,7 +35,7 @@
  <img align="center" src="https://img.shields.io/badge/-GMAIL-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
-<a href="www.linkedin.com/in/thiago-gariani-quinto-84008a298" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-gariani-quinto-84008a298" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-LINKEDIN-05122A?style=flat&logo=linkedin" alt="gmail"/>
 </a>
 
